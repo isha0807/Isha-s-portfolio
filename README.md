@@ -1,2 +1,2 @@
-# Isha-s-portfolio
-This dismay public portfolio for Telling Stories with Data at CMU
+# Isha-portfolio
+This is my public portfolio for Telling Stories with Data at CMU
